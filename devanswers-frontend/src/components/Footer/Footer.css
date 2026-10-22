@@ -1,0 +1,13 @@
+/* This part is generated using selecting and adding element to chat and asking to create CSS for the footer component */
+
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+}
