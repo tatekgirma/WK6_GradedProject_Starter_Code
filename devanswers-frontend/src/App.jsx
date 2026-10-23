@@ -29,8 +29,8 @@ function App() {
       <SideBarLayout>
         <Home />
         <QuestionDetail id={"q1"} />
-        <Login />
-        <Register />
+        {/* <Login />
+        <Register /> */}
       </SideBarLayout>
     </BaseLayout>
   );
